@@ -26,4 +26,4 @@ TODO: Write development instructions here
 
 ## Contributors
 
-- [[your-github-name]](https://github.com/[your-github-name]) upamune - creator, maintainer
+- [[upamune]](https://github.com/upamune) upamune - creator, maintainer
